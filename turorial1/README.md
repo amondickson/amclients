@@ -21,12 +21,10 @@ To set up the project locally, follow these steps:
 
 Clone the repository:
 
-bash
 Copy code
 git clone https://github.com/amondickson/Django-Client.git
 Navigate to the project directory:
 
-arduino
 Copy code
 cd Django-Client
 Install dependencies:
@@ -90,7 +88,7 @@ Deployment
 The application will be hosted and publicly accessible. You can find the live version of Amon's Client when deployed. I will add the link here.
 
 Contributing
-We welcome contributions from the community! If you'd like to contribute to the development of Amon's Client, please follow these steps:
+I welcome contributions from the community! If you'd like to contribute to the development of Amon's Client, please follow these steps:
 
 Fork the repository on GitHub.
 Create a new branch for your feature or bug fix.
